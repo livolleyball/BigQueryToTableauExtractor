@@ -1,5 +1,20 @@
 # BigQuery To Tableau Extractor
 
+
+## all.py  ： Optimize all aspects in a script.
+* user  Python package `google-cloud-storage` to replace gcutil.
+* wait for  the job  status after task is commit 
+* use config file  to replace terminal param 
+
+
+
+
+
+
+
+
+
+
 This is a 3-step script solution to extract data from Google Big Query at "lightining" speeds :)
 
 It basically works in three steps:
